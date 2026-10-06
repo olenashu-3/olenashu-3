@@ -1,4 +1,4 @@
-# 👋 Olena Shutovska
+# Hi! 👋 I am Olena.
 
 **Data Analytics & AI | Python · SQL · Data Visualization**
 
